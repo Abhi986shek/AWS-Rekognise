@@ -1,5 +1,3 @@
-Here’s a detailed, GitHub-ready **README** for your Streamlit AWS Rekognition project:
-
 ---
 
 # Real-time Emotion Detection & Face Matching with AWS Rekognition
@@ -138,10 +136,3 @@ Uses AWS Rekognition `compare_faces` API with a similarity threshold of 80%.
 
 ---
 
-## License
-
-MIT License – see `LICENSE` file.
-
----
-
-I can also create a **shorter, GitHub repo description** for the top of your repository that’s more catchy and SEO-friendly if you want. Do you want me to do that?
